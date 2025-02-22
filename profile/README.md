@@ -16,7 +16,7 @@ Thank you for your interest in contributing to **ESPOS**! This project is an **o
 3. Clone the repository:  
    ```bash  
    git clone https://github.com/espos-project/espos.git  
-   cd ESPOS  
+   cd espos 
    ```  
 4. Open the `.ino` files in **Arduino IDE**.  
 ## 🚀 How to Contribute  
