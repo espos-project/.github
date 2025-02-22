@@ -15,7 +15,7 @@ Thank you for your interest in contributing to **ESPOS**! This project is an **o
 2. Install **ESP32 board support** from the Board Manager.  
 3. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-org/ESPOS.git  
+   git clone https://github.com/espos-project/espos.git  
    cd ESPOS  
    ```  
 4. Open the `.ino` files in **Arduino IDE**.  
